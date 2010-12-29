@@ -1,10 +1,25 @@
-//
-//  DetailViewController.m
-//  ZimZam
-//
-//  Created by Reed Morse on 12/20/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
-//
+/*
+ 
+ Created by Reed Morse on 12/20/10.
+ Copyright 2010 Reed Morse.
+ 
+ 
+ This file is part of ZimZam.
+ 
+ ZimZam is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ ZimZam is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with ZimZam.  If not, see <http://www.gnu.org/licenses/>.
+ 
+ */
 
 #import "DetailViewController.h"
 #import "RootViewController.h"
@@ -12,7 +27,7 @@
 
 @interface DetailViewController ()
 @property (nonatomic, retain) UIPopoverController *popoverController;
-- (void)configureView;
+- (void)updateView;
 @end
 
 
@@ -34,7 +49,7 @@
         article = [newArticle retain];
         
         // Update the view.
-        [self configureView];
+        [self updateView];
     }
 
     if (self.popoverController != nil) {
@@ -45,13 +60,9 @@
 	NSMutableDictionary *dict = [NSMutableDictionary dictionaryWithObjectsAndKeys:
 								 [NSNumber numberWithInt:10], @"width",
 								 [NSNumber numberWithInt:10], @"height",
-								 [NSNull null], @"filename",
 								 [NSNumber numberWithBool:YES], @"javascript",
 								 [NSNumber numberWithFloat:2.0], @"delay",
-								 @"./work", @"directory",
 								 @"zimzam", @"header",
-								 @"hoorah", @"value",
-								 [NSNumber numberWithInt:4], @"version",
 								 [NSNumber numberWithBool:NO], @"log",
 								 nil];
 	[dict setObject:article.urlString forKey:@"url"];
@@ -67,10 +78,11 @@
 }
 
 
-- (void)configureView {
+- (void)updateView {
 	detailDescriptionLabel.text = (nil==[article body])?@"Loading":[article body];
 }
 
+// I found this online somewhere...
 - (NSString *) stripTags:(NSString *)str
 {
     NSMutableString *ms = [NSMutableString stringWithCapacity:[str length]];
@@ -108,11 +120,11 @@
 		}
 	}
 	
-	NSLog(@"result: %@", content);
+//	NSLog(@"result: %@", content);
 	article.body = [self stripTags:content];
 	[content release];
 	
-	[self configureView];
+	[self updateView];
 }
 
 
@@ -191,8 +203,6 @@
 */
 
 - (void)viewDidUnload {
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
     self.popoverController = nil;
 }
 

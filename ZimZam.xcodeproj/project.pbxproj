@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0049B1F512C069EA00317F42 /* NYTimesHTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0049B1F412C069EA00317F42 /* NYTimesHTMLParser.m */; };
 		0049B20512C0860200317F42 /* NYTimesRSSParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0049B20412C0860200317F42 /* NYTimesRSSParser.m */; };
 		0049B24512C08F2900317F42 /* ZimZamLoadDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */; };
 		007EF4E912C09CEB004E9E76 /* Article.m in Sources */ = {isa = PBXBuildFile; fileRef = 007EF4E812C09CEB004E9E76 /* Article.m */; };
@@ -24,8 +23,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0049B1F312C069EA00317F42 /* NYTimesHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NYTimesHTMLParser.h; sourceTree = "<group>"; };
-		0049B1F412C069EA00317F42 /* NYTimesHTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYTimesHTMLParser.m; sourceTree = "<group>"; };
 		0049B20312C0860200317F42 /* NYTimesRSSParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NYTimesRSSParser.h; sourceTree = "<group>"; };
 		0049B20412C0860200317F42 /* NYTimesRSSParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYTimesRSSParser.m; sourceTree = "<group>"; };
 		0049B24312C08F2900317F42 /* ZimZamLoadDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZimZamLoadDelegate.h; sourceTree = "<group>"; };
@@ -76,8 +73,6 @@
 				28042008108E984D000629CD /* RootViewController.m */,
 				28042009108E984D000629CD /* DetailViewController.h */,
 				2804200A108E984D000629CD /* DetailViewController.m */,
-				0049B1F312C069EA00317F42 /* NYTimesHTMLParser.h */,
-				0049B1F412C069EA00317F42 /* NYTimesHTMLParser.m */,
 				0049B20312C0860200317F42 /* NYTimesRSSParser.h */,
 				0049B20412C0860200317F42 /* NYTimesRSSParser.m */,
 				007EF4E712C09CEB004E9E76 /* Article.h */,
@@ -202,7 +197,6 @@
 				1D3623260D0F684500981E51 /* ZimZamAppDelegate.m in Sources */,
 				2804200B108E984D000629CD /* RootViewController.m in Sources */,
 				2804200C108E984D000629CD /* DetailViewController.m in Sources */,
-				0049B1F512C069EA00317F42 /* NYTimesHTMLParser.m in Sources */,
 				0049B20512C0860200317F42 /* NYTimesRSSParser.m in Sources */,
 				0049B24512C08F2900317F42 /* ZimZamLoadDelegate.m in Sources */,
 				007EF4E912C09CEB004E9E76 /* Article.m in Sources */,

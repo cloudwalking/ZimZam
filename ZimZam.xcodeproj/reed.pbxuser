@@ -45,17 +45,29 @@
 		indexTemplatePath = "";
 	};
 	0049B1F312C069EA00317F42 /* NYTimesHTMLParser.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = NYTimesHTMLParser.h;
+		path = /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.h;
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1384, 512}}";
-			sepNavSelRange = "{372, 0}";
-			sepNavVisRange = "{0, 1052}";
+			sepNavIntBoundsRect = "{{0, 0}, {1384, 598}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 1199}";
 		};
 	};
 	0049B1F412C069EA00317F42 /* NYTimesHTMLParser.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NYTimesHTMLParser.m;
+		path = /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {730, 1144}}";
-			sepNavSelRange = "{2000, 0}";
-			sepNavVisRange = "{1012, 1128}";
+			sepNavSelRange = "{1403, 0}";
+			sepNavVisRange = "{1174, 992}";
 		};
 	};
 	0049B20312C0860200317F42 /* NYTimesRSSParser.h */ = {
@@ -75,16 +87,16 @@
 	};
 	0049B24312C08F2900317F42 /* ZimZamLoadDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {730, 537}}";
-			sepNavSelRange = "{601, 0}";
-			sepNavVisRange = "{0, 635}";
+			sepNavIntBoundsRect = "{{0, 0}, {730, 572}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 1348}";
 		};
 	};
 	0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {943, 793}}";
-			sepNavSelRange = "{1729, 0}";
-			sepNavVisRange = "{544, 1208}";
+			sepNavIntBoundsRect = "{{0, 0}, {943, 1066}}";
+			sepNavSelRange = "{2491, 0}";
+			sepNavVisRange = "{1560, 570}";
 		};
 	};
 	007A268212CBB69700FD8D08 /* PBXTextBookmark */ = {
@@ -92,7 +104,7 @@
 		fRef = 28042008108E984D000629CD /* RootViewController.m */;
 		name = "RootViewController.m: 25";
 		rLen = 0;
-		rLoc = 554;
+		rLoc = 1128;
 		rType = 0;
 		vrLen = 1328;
 		vrLoc = 143;
@@ -102,7 +114,7 @@
 		fRef = 28042008108E984D000629CD /* RootViewController.m */;
 		name = "RootViewController.m: 25";
 		rLen = 0;
-		rLoc = 554;
+		rLoc = 1128;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 143;
@@ -112,8 +124,8 @@
 		comments = "Property 'screengrab' requires method '-screengrab' to be defined - use @synthesize, @dynamic or provide a method implementation";
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 60;
+		rLen = 0;
+		rLoc = 21;
 		rType = 1;
 	};
 	007A26A512CBBF9C00FD8D08 /* PBXTextBookmark */ = {
@@ -121,7 +133,7 @@
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		name = "ZimZamLoadDelegate.m: 57";
 		rLen = 0;
-		rLoc = 1773;
+		rLoc = 2491;
 		rType = 0;
 		vrLen = 311;
 		vrLoc = 1398;
@@ -131,8 +143,8 @@
 		comments = "Method definition for '-description' not found";
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 60;
+		rLen = 0;
+		rLoc = 21;
 		rType = 1;
 	};
 	007A26AF12CBBFDD00FD8D08 /* PBXTextBookmark */ = {
@@ -140,7 +152,7 @@
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		name = "ZimZamLoadDelegate.m: 57";
 		rLen = 0;
-		rLoc = 1773;
+		rLoc = 2491;
 		rType = 0;
 		vrLen = 421;
 		vrLoc = 1288;
@@ -150,7 +162,7 @@
 		fRef = 28042008108E984D000629CD /* RootViewController.m */;
 		name = "RootViewController.m: 16";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 881;
 		rType = 0;
 		vrLen = 1012;
 		vrLoc = 0;
@@ -160,7 +172,7 @@
 		fRef = 0049B24312C08F2900317F42 /* ZimZamLoadDelegate.h */;
 		name = "ZimZamLoadDelegate.h: 18";
 		rLen = 0;
-		rLoc = 601;
+		rLoc = 1319;
 		rType = 0;
 		vrLen = 635;
 		vrLoc = 0;
@@ -170,7 +182,7 @@
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		name = "ZimZamLoadDelegate.m: 57";
 		rLen = 0;
-		rLoc = 1773;
+		rLoc = 2491;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 544;
@@ -180,10 +192,20 @@
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		name = "ZimZamLoadDelegate.m: 54";
 		rLen = 0;
-		rLoc = 1729;
+		rLoc = 2447;
 		rType = 0;
 		vrLen = 1208;
 		vrLoc = 544;
+	};
+	007A26B812CBC34F00FD8D08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
+		name = "ZimZamLoadDelegate.m: 84";
+		rLen = 0;
+		rLoc = 2491;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 1560;
 	};
 	007EF4E712C09CEB004E9E76 /* Article.h */ = {
 		uiCtxt = {
@@ -300,7 +322,7 @@
 		fRef = 1D3623250D0F684500981E51 /* ZimZamAppDelegate.m */;
 		name = "ZimZamAppDelegate.m: 32";
 		rLen = 0;
-		rLoc = 778;
+		rLoc = 1351;
 		rType = 0;
 		vrLen = 1294;
 		vrLoc = 3;
@@ -326,7 +348,7 @@
 		fRef = 0049B1F312C069EA00317F42 /* NYTimesHTMLParser.h */;
 		name = "NYTimesHTMLParser.h: 19";
 		rLen = 0;
-		rLoc = 372;
+		rLoc = 941;
 		rType = 0;
 		vrLen = 1052;
 		vrLoc = 0;
@@ -356,7 +378,7 @@
 		fRef = 0049B24412C08F2900317F42 /* ZimZamLoadDelegate.m */;
 		name = "ZimZamLoadDelegate.m: 29";
 		rLen = 0;
-		rLoc = 736;
+		rLoc = 1454;
 		rType = 0;
 		vrLen = 1164;
 		vrLoc = 32;
@@ -366,7 +388,7 @@
 		fRef = 28042009108E984D000629CD /* DetailViewController.h */;
 		name = "DetailViewController.h: 27";
 		rLen = 0;
-		rLoc = 641;
+		rLoc = 1213;
 		rType = 0;
 		vrLen = 772;
 		vrLoc = 0;
@@ -376,7 +398,7 @@
 		fRef = 0049B24312C08F2900317F42 /* ZimZamLoadDelegate.h */;
 		name = "ZimZamLoadDelegate.h: 4";
 		rLen = 0;
-		rLoc = 98;
+		rLoc = 816;
 		rType = 0;
 		vrLen = 950;
 		vrLoc = 0;
@@ -386,7 +408,7 @@
 		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
 		name = "DetailViewController.m: 212";
 		rLen = 0;
-		rLoc = 6223;
+		rLoc = 6583;
 		rType = 0;
 		vrLen = 854;
 		vrLoc = 5581;
@@ -396,7 +418,7 @@
 		fRef = 28042007108E984D000629CD /* RootViewController.h */;
 		name = "RootViewController.h: 19";
 		rLen = 0;
-		rLoc = 396;
+		rLoc = 970;
 		rType = 0;
 		vrLen = 594;
 		vrLoc = 0;
@@ -406,7 +428,7 @@
 		fRef = 28042008108E984D000629CD /* RootViewController.m */;
 		name = "RootViewController.m: 22";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 1057;
 		rType = 0;
 		vrLen = 1336;
 		vrLoc = 143;
@@ -416,16 +438,23 @@
 		fRef = 28042008108E984D000629CD /* RootViewController.m */;
 		name = "RootViewController.m: 25";
 		rLen = 0;
-		rLoc = 554;
+		rLoc = 1128;
 		rType = 0;
 		vrLen = 1328;
 		vrLoc = 143;
 	};
+	1D3623240D0F684500981E51 /* ZimZamAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {730, 598}}";
+			sepNavSelRange = "{0, 716}";
+			sepNavVisRange = "{0, 1188}";
+		};
+	};
 	1D3623250D0F684500981E51 /* ZimZamAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 988}}";
-			sepNavSelRange = "{778, 0}";
-			sepNavVisRange = "{3, 1294}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1157}}";
+			sepNavSelRange = "{747, 0}";
+			sepNavVisRange = "{0, 1294}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* ZimZam */ = {
@@ -437,29 +466,29 @@
 	28042007108E984D000629CD /* RootViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {730, 537}}";
-			sepNavSelRange = "{396, 0}";
-			sepNavVisRange = "{0, 594}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 1168}";
 		};
 	};
 	28042008108E984D000629CD /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {730, 2678}}";
-			sepNavSelRange = "{307, 0}";
-			sepNavVisRange = "{0, 1012}";
+			sepNavIntBoundsRect = "{{0, 0}, {730, 2860}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 1187}";
 		};
 	};
 	28042009108E984D000629CD /* DetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {803, 512}}";
-			sepNavSelRange = "{641, 0}";
-			sepNavVisRange = "{0, 772}";
+			sepNavIntBoundsRect = "{{0, 0}, {803, 624}}";
+			sepNavSelRange = "{716, 0}";
+			sepNavVisRange = "{0, 1239}";
 		};
 	};
 	2804200A108E984D000629CD /* DetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {901, 3120}}";
-			sepNavSelRange = "{6223, 0}";
-			sepNavVisRange = "{5581, 854}";
+			sepNavIntBoundsRect = "{{0, 0}, {2259, 3029}}";
+			sepNavSelRange = "{4157, 0}";
+			sepNavVisRange = "{0, 1107}";
 			sepNavWindowFrame = "{{50, 0}, {1104, 733}}";
 		};
 	};
@@ -512,6 +541,7 @@
 			007A26B512CBC01600FD8D08 /* PBXTextBookmark */ = 007A26B512CBC01600FD8D08 /* PBXTextBookmark */;
 			007A26B612CBC01600FD8D08 /* PBXTextBookmark */ = 007A26B612CBC01600FD8D08 /* PBXTextBookmark */;
 			007A26B712CBC01600FD8D08 /* PBXTextBookmark */ = 007A26B712CBC01600FD8D08 /* PBXTextBookmark */;
+			007A26B812CBC34F00FD8D08 /* PBXTextBookmark */ = 007A26B812CBC34F00FD8D08 /* PBXTextBookmark */;
 			007EF5DC12C0E0E1004E9E76 = 007EF5DC12C0E0E1004E9E76 /* PBXTextBookmark */;
 			007EF60B12C0E82B004E9E76 = 007EF60B12C0E82B004E9E76 /* PBXTextBookmark */;
 			007EF61312C0E979004E9E76 = 007EF61312C0E979004E9E76 /* PBXTextBookmark */;
