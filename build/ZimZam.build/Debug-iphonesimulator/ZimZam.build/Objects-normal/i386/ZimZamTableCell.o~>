@@ -1,0 +1,2 @@
+/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m:41: warning: incomplete implementation of class 'ZimZamTableCell'
+/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m:41: warning: method definition for '-newLabelWithPrimaryColor:selectedColor:fontSize:bold:' not found

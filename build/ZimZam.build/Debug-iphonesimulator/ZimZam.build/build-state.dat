@@ -1,0 +1,708 @@
+TZimZam
+v7
+r0
+t315342870.733060
+cCheck dependencies
+cProcessInfoPlistFile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/Info.plist ZimZam-Info.plist
+cCompileXIB /Users/reed/Projects/ZimZam/MainWindow.xib
+cCompileXIB /Users/reed/Projects/ZimZam/DetailView.xib
+cProcessPCH /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch.gch ZimZam_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/main.o /Users/reed/Projects/ZimZam/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamAppDelegate.o /Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/RootViewController.o /Users/reed/Projects/ZimZam/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/DetailViewController.o /Users/reed/Projects/ZimZam/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesHTMLParser.o /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesRSSParser.o /Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamLoadDelegate.o /Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/Article.o /Users/reed/Projects/ZimZam/Classes/Article.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam normal i386
+cGenerateDSYMFile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app.dSYM /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam
+cTouch /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c000000004CC10DA50000000000002401
+t1287720357
+s9217
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/stat.h
+c000000004CBFACAC0000000000004A1D
+t1287629996
+s18973
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Users/reed/Projects/ZimZam/Classes/Article.h
+c000000004D108DAD0000000000000198
+t1292930477
+s408
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/Article.m
+c000000004D10A8E400000000000001D3
+t1292937444
+s467
+i"Article.h"
+
+N/Users/reed/Projects/ZimZam/Classes/DetailViewController.h
+c000000004D11825E0000000000000304
+t1292993118
+s772
+i<UIKit/UIKit.h>
+i"Article.h"
+
+N/Users/reed/Projects/ZimZam/Classes/DetailViewController.m
+c000000004D11AFFE0000000000001923
+t1293004798
+s6435
+i"DetailViewController.h"
+i"RootViewController.h"
+i"ZimZamLoadDelegate.h"
+
+N/Users/reed/Projects/ZimZam/Classes/HTMLNode.h
+c000000004CE942AA0000000000000818
+t1290355370
+s2072
+i<Foundation/Foundation.h>
+i<libxml/HTMLparser.h>
+i"HTMLParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/HTMLNode.m
+c000000004CE942AA00000000000025D1
+t1290355370
+s9681
+i"HTMLNode.h"
+
+N/Users/reed/Projects/ZimZam/Classes/HTMLParser.h
+c000000004CE942AA000000000000026B
+t1290355370
+s619
+i<Foundation/Foundation.h>
+i<libxml/HTMLparser.h>
+i"HTMLNode.h"
+
+N/Users/reed/Projects/ZimZam/Classes/HTMLParser.m
+c000000004D116604000000000000082C
+t1292985860
+s2092
+i"HTMLParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesArticle.h
+c000000004D108C50000000000000019F
+t1292930128
+s415
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m
+c000000004D108C3E00000000000000F2
+t1292930110
+s242
+i"NYTimesArticle.h"
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.h
+c000000004D10B57D000000000000041C
+t1292940669
+s1052
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m
+c000000004D1113980000000000000876
+t1292964760
+s2166
+i"NYTimesHTMLParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.h
+c000000004D10B4E50000000000000429
+t1292940517
+s1065
+i<UIKit/UIKit.h>
+i"Article.h"
+
+N/Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m
+c000000004D10A79200000000000008A7
+t1292937106
+s2215
+i"NYTimesRSSParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ObjCLab.h
+c000000004C69895400000000000003AB
+t1281984852
+s939
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ObjCLab.m
+c000000004D1059D30000000000001743
+t1292917203
+s5955
+i"ObjCLab.h"
+i<sys/stat.h>
+i<sys/types.h>
+
+N/Users/reed/Projects/ZimZam/Classes/RootViewController.h
+c000000004D11B8560000000000000252
+t1293006934
+s594
+i<UIKit/UIKit.h>
+i"NYTimesRSSParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/RootViewController.m
+c000000004D1B86F500000000000015EF
+t1293649653
+s5615
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.h
+c000000004D100FA7000000000000030D
+t1292898215
+s781
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m
+c000000004D11550D00000000000007C6
+t1292981517
+s1990
+i"ZimZamAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamHTMLParser.h
+c000000004D104C8C000000000000032D
+t1292913804
+s813
+i<Cocoa/Cocoa.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamHTMLParser.m
+c000000004D10326A00000000000000D4
+t1292907114
+s212
+i"ZimZamHTMLParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.h
+c000000004D1B8852000000000000027B
+t1293650002
+s635
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m
+c000000004D1B888F00000000000006F1
+t1293650063
+s1777
+i"ZimZamLoadDelegate.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.h
+c000000004D1064CF0000000000000351
+t1292920015
+s849
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m
+c000000004D10A1500000000000000726
+t1292935504
+s1830
+i"ZimZamNYTimesHTMLParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.h
+c000000004D1064C70000000000000370
+t1292920007
+s880
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m
+c000000004D10634B0000000000000878
+t1292919627
+s2168
+i"ZimZamNYTimesRSSParser.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.h
+c000000004D10AE450000000000000127
+t1292938821
+s295
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m
+c000000004D10AE3700000000000002B4
+t1292938807
+s692
+i"ZimZamTableCell.h"
+
+N/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.xib
+c000000004D10B0F00000000000004079
+t1292939504
+s16505
+
+N/Users/reed/Projects/ZimZam/DetailView.xib
+c000000004D1B803E00000000000052FF
+t1293647934
+s21247
+
+N/Users/reed/Projects/ZimZam/MainWindow.xib
+c000000004D1052C500000000000072DF
+t1292915397
+s29407
+
+N/Users/reed/Projects/ZimZam/ZimZam_Prefix.pch
+c000000004D100FA7000000000000013E
+t1292898215
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app
+t1293650063
+s272
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app.dSYM
+t1293650063
+s102
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/DetailView.nib
+t1293647938
+s1394
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/Info.plist
+t1293000547
+s712
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/MainWindow.nib
+t1292915916
+s1933
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/PkgInfo
+t1293000547
+s8
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam
+t1293650063
+s60520
+
+N/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZamTableCell.nib
+t1292939506
+s1767
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/Article.o
+t1292981521
+s11260
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/DetailViewController.o
+t1293650003
+s65612
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLNode.o
+t1292982019
+s35428
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLParser.o
+t1292986801
+s17952
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesArticle.o
+t1292930130
+s9184
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesHTMLParser.o
+t1292981521
+s19888
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesRSSParser.o
+t1292981521
+s22508
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ObjCLab.o
+t2
+s0
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/RootViewController.o
+t1293649896
+s58852
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZam.LinkFileList
+c000000004D1B87E800000000000003BD
+t1293649896
+s957
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamAppDelegate.o
+t1293006937
+s55280
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamHTMLParser.o
+t2
+s0
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamLoadDelegate.o
+t1293650063
+s51144
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesHTMLParser.o
+t1292936285
+s10380
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesRSSParser.o
+t1292920017
+s16680
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamTableCell.o
+t1292981521
+s39296
+
+N/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/main.o
+t1292981520
+s6280
+
+N/Users/reed/Projects/ZimZam/main.m
+c000000004D100FA70000000000000167
+t1292898215
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch.gch
+t1292981520
+s15453392
+
+N/var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch.gch
+t1292898872
+s15453392
+
+NZimZam-Info.plist
+c000000004D119EB2000000000000043C
+t1293000370
+s1084
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315342870#315342870#0(0"0(0#1#0"8617597696#0"0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/Article.o /Users/reed/Projects/ZimZam/Classes/Article.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674321.245245
+e314674321.361064
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/Article.o
+x/Users/reed/Projects/ZimZam/Classes/Article.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/reed/Projects/ZimZam/Classes/Article.m314674321#314674321#0(0"0(0#0#45"/Users/reed/Projects/ZimZam/Classes/Article.m8675124800#1893"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/Article.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/Article.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/DetailViewController.o /Users/reed/Projects/ZimZam/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315342803.539468
+e315342803.687323
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/DetailViewController.o
+x/Users/reed/Projects/ZimZam/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/reed/Projects/ZimZam/Classes/DetailViewController.m315342803#315342803#0(0"0(0#0#58"/Users/reed/Projects/ZimZam/Classes/DetailViewController.m8617127232#1919"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/DetailViewController.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLNode.o /Users/reed/Projects/ZimZam/Classes/HTMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674819.535653
+e314674819.668345
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLNode.o
+x/Users/reed/Projects/ZimZam/Classes/HTMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reed/Projects/ZimZam/Classes/HTMLNode.m: In function 'rawContentsOfNode':
+o/Users/reed/Projects/ZimZam/Classes/HTMLNode.m:384: warning: implicit declaration of function 'htmlNodeDumpFormatOutput'
+lSLF07#2@54"Compile /Users/reed/Projects/ZimZam/Classes/HTMLNode.m314674819#314674819#0(202"/Users/reed/Projects/ZimZam/Classes/HTMLNode.m: In function 'rawContentsOfNode':/Users/reed/Projects/ZimZam/Classes/HTMLNode.m:384: warning: implicit declaration of function 'htmlNodeDumpFormatOutput'1(22@59"Implicit declaration of function 'htmlNodeDumpFormatOutput'314674819#81#121#0(6@46"/Users/reed/Projects/ZimZam/Classes/HTMLNode.m312048170#384#0#384#0#36"implicit declaration of function '*'0(0#0#46"/Users/reed/Projects/ZimZam/Classes/HTMLNode.m8678435296#1895"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/HTMLNode.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLNode.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLParser.o /Users/reed/Projects/ZimZam/Classes/HTMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314679601.252958
+e314679601.479376
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLParser.o
+x/Users/reed/Projects/ZimZam/Classes/HTMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/reed/Projects/ZimZam/Classes/HTMLParser.m314679601#314679601#0(0"0(0#0#48"/Users/reed/Projects/ZimZam/Classes/HTMLParser.m8679030624#1899"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/HTMLParser.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/HTMLParser.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesArticle.o /Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314622930.319751
+e314622930.405969
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesArticle.o
+x/Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m314622930#314622930#0(0"0(0#0#52"/Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m8619568128#1801"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/NYTimesArticle.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesArticle.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesHTMLParser.o /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674320.976312
+e314674321.138967
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesHTMLParser.o
+x/Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m314674320#314674321#0(0"0(0#0#55"/Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m8673330624#1913"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/NYTimesHTMLParser.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesHTMLParser.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesRSSParser.o /Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674321.137844
+e314674321.245142
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesRSSParser.o
+x/Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m314674321#314674321#0(0"0(0#0#54"/Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m8677888160#1911"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/NYTimesRSSParser.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/NYTimesRSSParser.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ObjCLab.o /Users/reed/Projects/ZimZam/Classes/ObjCLab.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/RootViewController.o /Users/reed/Projects/ZimZam/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315342696.554878
+e315342696.737136
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/RootViewController.o
+x/Users/reed/Projects/ZimZam/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reed/Projects/ZimZam/Classes/RootViewController.m315342696#315342696#0(0"0(0#0#56"/Users/reed/Projects/ZimZam/Classes/RootViewController.m8606752448#1915"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/RootViewController.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamAppDelegate.o /Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314699737.438111
+e314699737.537810
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamAppDelegate.o
+x/Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m314699737#314699737#0(0"0(0#0#55"/Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m8625472768#1913"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/ZimZamAppDelegate.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamAppDelegate.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamHTMLParser.o /Users/reed/Projects/ZimZam/Classes/ZimZamHTMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamLoadDelegate.o /Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315342863.703656
+e315342863.792928
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamLoadDelegate.o
+x/Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m315342863#315342863#0(0"0(0#0#56"/Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m8618559488#1915"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/ZimZamLoadDelegate.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamLoadDelegate.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesHTMLParser.o /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314629084.955026
+e314629085.083747
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesHTMLParser.o
+x/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'tagInProgress' requires method '-tagInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'tagInProgress' requires the method 'setTagInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'textInProgress' requires method '-textInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'textInProgress' requires the method 'setTextInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: incomplete implementation of class 'ZimZamNYTimesHTMLParser'
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:foundCharacters:' not found
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:didEndElement:namespaceURI:qualifiedName:' not found
+o/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:didStartElement:namespaceURI:qualifiedName:attributes:' not found
+lSLF07#2@69"Compile /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314629084#314629085#0(1459"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'tagInProgress' requires method '-tagInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'tagInProgress' requires the method 'setTagInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'textInProgress' requires method '-textInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: property 'textInProgress' requires the method 'setTextInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: incomplete implementation of class 'ZimZamNYTimesHTMLParser'/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:foundCharacters:' not found/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:didEndElement:namespaceURI:qualifiedName:' not found/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m:74: warning: method definition for '-parser:didStartElement:namespaceURI:qualifiedName:attributes:' not found8(22@134"Property 'tagInProgress' requires method '-tagInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation314629085#0#210#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#0"0(22@141"Property 'tagInProgress' requires the method 'setTagInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation314629085#210#217#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#0"0(22@136"Property 'textInProgress' requires method '-textInProgress' to be defined - use @synthesize, @dynamic or provide a method implementation314629085#427#212#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#0"0(22@143"Property 'textInProgress' requires the method 'setTextInProgress:' to be defined - use @synthesize, @dynamic or provide a method implementation314629085#639#219#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#0"0(22@60"Incomplete implementation of class 'ZimZamNYTimesHTMLParser'314629085#858#136#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#38"incomplete implementation of class '*'0(22@58"Method definition for '-parser:foundCharacters:' not found314629085#994#134#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#35"method definition for '*' not found0(22@83"Method definition for '-parser:didEndElement:namespaceURI:qualifiedName:' not found314629085#1128#159#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#35"method definition for '*' not found0(22@96"Method definition for '-parser:didStartElement:namespaceURI:qualifiedName:attributes:' not found314629085#1287#172#0(6@61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m314628304#74#0#74#0#35"method definition for '*' not found0(0#0#61"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m8649767456#1819"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesHTMLParser.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesHTMLParser.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesRSSParser.o /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314612817.131484
+e314612817.210024
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesRSSParser.o
+x/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m314612817#314612817#0(0"0(0#0#60"/Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m8612451776#1817"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/ZimZamNYTimesRSSParser.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamNYTimesRSSParser.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamTableCell.o /Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674321.302769
+e314674321.402793
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamTableCell.o
+x/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m314674321#314674321#0(0"0(0#0#53"/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m8654577408#1909"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZamTableCell.o0#
+
+CCompileC build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/main.o /Users/reed/Projects/ZimZam/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674320.675610
+e314674320.785804
+r1
+xCompileC
+xbuild/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/main.o
+x/Users/reed/Projects/ZimZam/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/reed/Projects/ZimZam/main.m314674320#314674320#0(0"0(0#0#34"/Users/reed/Projects/ZimZam/main.m8674831328#1879"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -include /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch -c /Users/reed/Projects/ZimZam/main.m -o /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.xib
+s314632306.511186
+e314632306.950520
+r1
+xCompileXIB
+x/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.xib
+lSLF07#2@38"CompileXIB Classes/ZimZamTableCell.xib314632306#314632306#0(0"0(0#0#55"/Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.xib8605443296#554"    cd /Users/reed/Projects/ZimZam    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZamTableCell.nib /Users/reed/Projects/ZimZam/Classes/ZimZamTableCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reed/Projects/ZimZam/DetailView.xib
+s315340737.898867
+e315340738.398105
+r1
+xCompileXIB
+x/Users/reed/Projects/ZimZam/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib315340737#315340738#0(0"0(0#0#42"/Users/reed/Projects/ZimZam/DetailView.xib8604301632#536"    cd /Users/reed/Projects/ZimZam    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/DetailView.nib /Users/reed/Projects/ZimZam/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/reed/Projects/ZimZam/MainWindow.xib
+s314608716.539988
+e314608716.987078
+r1
+xCompileXIB
+x/Users/reed/Projects/ZimZam/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314608716#314608716#0(0"0(0#0#42"/Users/reed/Projects/ZimZam/MainWindow.xib8623148448#536"    cd /Users/reed/Projects/ZimZam    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/MainWindow.nib /Users/reed/Projects/ZimZam/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app.dSYM /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam
+s315342863.825286
+e315342863.852830
+r1
+xGenerateDSYMFile
+x/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app.dSYM
+x/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/ZimZam.app.dSYM build/Debug-iphonesimulator/ZimZam.app/ZimZam315342863#315342863#0(0"0(0#0#73"/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam8617903872#347"    cd /Users/reed/Projects/ZimZam    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam -o /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app.dSYM0#
+
+CLd /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam normal i386
+s315342863.793018
+e315342863.825189
+r1
+xLd
+x/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam
+xnormal
+xi386
+lSLF07#2@78"Link /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam315342863#315342863#0(0"0(0#0#0"8618343456#847"    cd /Users/reed/Projects/ZimZam    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -filelist /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/Objects-normal/i386/ZimZam.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -o /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/ZimZam0#
+
+CProcessInfoPlistFile /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/Info.plist ZimZam-Info.plist
+s314693347.708219
+e314693347.716164
+r1
+xProcessInfoPlistFile
+x/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/Info.plist
+xZimZam-Info.plist
+lSLF07#2@25"Process ZimZam-Info.plist314693347#314693347#0(0"0(0#0#45"/Users/reed/Projects/ZimZam/ZimZam-Info.plist8675614976#443"    cd /Users/reed/Projects/ZimZam    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ZimZam-Info.plist -genpkginfo /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app/Info.plist0#
+
+CProcessPCH /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch.gch ZimZam_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314674318.466386
+e314674320.675366
+r1
+xProcessPCH
+x/var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch.gch
+xZimZam_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ZimZam_Prefix.pch314674318#314674320#0(0"0(0#0#45"/Users/reed/Projects/ZimZam/ZimZam_Prefix.pch8674441056#1783"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -c /Users/reed/Projects/ZimZam/ZimZam_Prefix.pch -o /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-etjfgnzzdlzjtbfzxugtdtdxhgzx/ZimZam_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch.gch ZimZam_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314591671.931265
+e314591672.997474
+r1
+xProcessPCH
+x/var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch.gch
+xZimZam_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ZimZam_Prefix.pch314591671#314591672#0(0"0(0#0#45"/Users/reed/Projects/ZimZam/ZimZam_Prefix.pch8613360384#1677"    cd /Users/reed/Projects/ZimZam    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-generated-files.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-own-target-headers.hmap -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-all-target-headers.hmap -iquote /Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/ZimZam-project-headers.hmap -F/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator -I/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/include -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources/i386 -I/Users/reed/Projects/ZimZam/build/ZimZam.build/Debug-iphonesimulator/ZimZam.build/DerivedSources -c /Users/reed/Projects/ZimZam/ZimZam_Prefix.pch -o /var/folders/ci/ciWrOMNyFH8yIfJ5hVIDLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZimZam_Prefix-hhazhysnctaplddcplnockmudxck/ZimZam_Prefix.pch.gch0#
+
+CTouch /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app
+s315342863.853108
+e315342863.857407
+r1
+xTouch
+x/Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app
+lSLF07#2@72"Touch /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app315342863#315342863#0(0"0(0#0#0"8616542624#255"    cd /Users/reed/Projects/ZimZam    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/reed/Projects/ZimZam/build/Debug-iphonesimulator/ZimZam.app0#
+
